@@ -8,7 +8,7 @@ public class Lab2Task2{
      int area;
      int perimeter;
 
-     System.out.println("Enter the length: ");
+     System.out.println("Enter the positive length: ");
      length = console.nextInt();
 
      System.out.println("Enter the width: ");
